@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedeperin/poh-validator.git"
+  },
   "keywords": [
     "poh",
     "proof-of-humanity"
@@ -15,5 +19,9 @@
   "dependencies": {
     "node-fetch": "^3.2.4"
   },
+  "bugs": {
+    "url": "https://github.com/fedeperin/poh-validator/issues"
+  },
+  "homepage": "https://github.com/fedeperin/poh-validator#readme",
   "type": "module"
 }
